@@ -1,0 +1,19 @@
+REAL ESTATE AI MAJOR PROJECT — QUICK START
+
+1. Open a terminal in this folder.
+2. Create environment:
+   python -m venv .venv
+3. Activate it.
+4. Install:
+   pip install -r requirements.txt
+5. Train:
+   python src/train_models.py
+6. Run:
+   streamlit run app.py
+
+For GitHub:
+- Upload the complete folder.
+- Keep requirements.txt in the repository root.
+- Replace the placeholder GitHub/Colab links in README.md and the report.
+- Capture dashboard screenshots after running the app.
+- Do not claim the included synthetic records are real transactions.

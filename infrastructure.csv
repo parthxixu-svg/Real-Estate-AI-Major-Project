@@ -1,0 +1,6 @@
+project_id,project_name,project_type,locality,latitude,longitude,expected_completion_year,impact_score
+INF001,Metro/Transit Expansion,Transit,Bodakdev,23.041,72.503,2028,92
+INF002,Road Connectivity Upgrade,Road,Shela,23.008,72.462,2027,78
+INF003,Commercial Hub Development,Commercial,Bopal,23.032,72.47,2029,74
+INF004,Public Mobility Corridor,Transit,Chandkheda,23.108,72.576,2028,81
+INF005,Urban Amenities Upgrade,Civic,Gota,23.092,72.544,2027,69

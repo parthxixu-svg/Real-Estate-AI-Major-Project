@@ -1,0 +1,11 @@
+city,locality,latitude,longitude,median_price_per_sqft,median_monthly_rent,crime_index,metro_distance_km,school_distance_km,hospital_distance_km,historical_price_growth_pct,infrastructure_score,population_density
+Ahmedabad,Prahlad Nagar,23.0125,72.508,12677.97,47970,12.24,2.19,2.6,2.22,9.29,78.06,8099
+Ahmedabad,Bodakdev,23.0395,72.5055,13661.77,47199,10.57,2.19,2.66,2.25,9.35,81.23,10091
+Ahmedabad,Satellite,23.03,72.518,11428.63,41571,14.77,2.41,2.48,2.36,8.9,74.05,11037
+Ahmedabad,Vastrapur,23.04,72.53,10855.77,42607,15.2,2.47,2.8,2.43,8.92,72.34,8000
+Ahmedabad,Thaltej,23.05,72.515,9768.73,38939,13.84,2.57,3.03,2.49,9.01,75.81,9450
+Ahmedabad,Chandkheda,23.11,72.58,7206.64,27524,11.39,2.85,3.45,2.93,9.31,80.08,4036
+Ahmedabad,Bopal,23.03,72.465,7892.2,29879,9.79,2.68,3.24,2.77,9.46,82.89,7175
+Ahmedabad,Maninagar,22.995,72.602,7396.09,28652,18.03,2.68,3.14,2.66,8.51,67.43,11888
+Ahmedabad,Gota,23.09,72.54,7670.89,30139,10.91,2.76,3.33,2.85,9.42,80.96,8147
+Ahmedabad,Shela,23.005,72.465,6933.47,24837,9.42,2.94,3.67,3.02,9.78,86.03,8737

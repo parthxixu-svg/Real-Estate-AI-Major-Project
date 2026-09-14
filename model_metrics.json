@@ -1,0 +1,34 @@
+{
+  "metrics": {
+    "gradient_boosting": {
+      "MAE": 813958.0522805781,
+      "RMSE": 1147320.8057754377,
+      "R2": 0.9779347347296892
+    },
+    "random_forest": {
+      "MAE": 846581.2354973439,
+      "RMSE": 1197004.10900973,
+      "R2": 0.975982339759653
+    }
+  },
+  "best_model": "gradient_boosting",
+  "features": [
+    "city",
+    "locality",
+    "property_type",
+    "furnishing",
+    "area_sqft",
+    "bedrooms",
+    "bathrooms",
+    "property_age_years",
+    "floor_number",
+    "total_floors",
+    "parking_spaces",
+    "metro_distance_km",
+    "school_distance_km",
+    "hospital_distance_km",
+    "crime_index",
+    "future_infrastructure_score",
+    "historical_price_growth_pct"
+  ]
+}
